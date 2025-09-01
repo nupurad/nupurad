@@ -44,7 +44,7 @@ I am a Master’s student in Computer Science at the University of Southern Cali
 
 ---
 <p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=nupurad&color=blue&style=flat-square)
 </p>
 
 ---
