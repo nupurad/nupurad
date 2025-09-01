@@ -43,4 +43,11 @@ I am a Master’s student in Computer Science at the University of Southern Cali
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://nupurad.github.io/)  
 
 ---
-⭐️ *Thanks for visiting! Feel free to explore my repositories and connect with me!* 
+<p align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+</p>
+
+---
+<p align="center">
+  <b>⭐ Thanks for visiting! Feel free to explore my repositories and connect with me! ⭐</b>
+</p>
