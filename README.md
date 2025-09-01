@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a Master’s student in Computer Science at the University of Southern California. I am passionate about AI, Data Science, and Full-Stack Development, with a strong focus on building intelligent systems that solve real-world problems. I enjoy working across the stack—from designing scalable backend systems to developing intuitive user interfaces—while continuously deepening my expertise in System Design, Cloud Computing (GCP), and advanced Machine Learning/Deep Learning. My long-term goal is to build impactful, scalable systems that empower users and make technology more accessible at scale. When I'm not coding, I love being behind a camera lens, capturing the beauties of the world through my perspective!
+I am a Master’s student in Computer Science at the University of Southern California. I am passionate about AI, Data Science, and Full-Stack Development, with a strong focus on building intelligent systems that solve real-world problems. I enjoy working across the stack—from designing scalable backend systems to developing intuitive user interfaces—while continuously deepening my expertise in Generative AI, Cloud Computing (GCP), and advanced Machine Learning/Deep Learning. My long-term goal is to build impactful, scalable systems that empower users and make technology more accessible at scale. When I'm not coding, I love being behind a camera lens, capturing the beauties of the world through my perspective!
 
 ---
 
