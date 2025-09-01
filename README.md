@@ -29,7 +29,9 @@ I am a Master’s student in Computer Science at the University of Southern Cali
 
 **Cloud & DevOps:**  
 - Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)  
+- Amazon Web Services (AWS)
+- Git
+- CI/CD  
 - Docker  
 - GitHub Actions
 
@@ -38,14 +40,7 @@ I am a Master’s student in Computer Science at the University of Southern Cali
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nupur-dashputre/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nupurdashputre@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://nupurad.github.io/)  
-
----
-<p align="center">
-  ![GitHub Profile Views](https://img.shields.io/badge/nupurad%20Views-0-blue)
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nupur-dashputre/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nupurdashputre@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://nupurad.github.io/)  
 
 ---
 <p align="center">
